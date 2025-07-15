@@ -1,10 +1,11 @@
 # A Software Framework for Simulating Eye Trackers
 
-The original download link `https://webmail.inb.uni-luebeck.de/inb-toolsdemos/FILES/et-simul-1.01.zip` is no longer accessible. This file was downloaded from the Wayback Machine and reuploaded here.
-
 This repository contains the original MATLAB implementation of the eye tracker simulation framework by Böhme et al. (2008).
 
+
 ## Archive Notice
+
+The original download link `https://webmail.inb.uni-luebeck.de/inb-toolsdemos/FILES/et-simul-1.01.zip` is no longer accessible. This file was downloaded from the Wayback Machine and reuploaded here.
 
 **Wayback Machine archive:**
 ```
