@@ -5,7 +5,7 @@ This repository contains the original MATLAB implementation of the eye tracker s
 
 ## Archive Notice
 
-The original download link `https://webmail.inb.uni-luebeck.de/inb-toolsdemos/FILES/et-simul-1.01.zip` is no longer accessible. This file was downloaded from the Wayback Machine and reuploaded here.
+The original download link `https://webmail.inb.uni-luebeck.de/inb-toolsdemos/FILES/et-simul-1.01.zip` or `https://www.inb.uni-luebeck.de/tools-demos/et_simul.zip` are no longer accessible. This file was downloaded from the Wayback Machine and reuploaded here.
 
 **Wayback Machine archive:**
 ```
